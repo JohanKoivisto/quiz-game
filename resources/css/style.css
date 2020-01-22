@@ -1,0 +1,228 @@
+/* ------------------------------*/
+/* BASIC SETUP */
+/* ------------------------------*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    color: #555;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+    scroll-behavior: smooth;
+}
+
+.clearfix { zoom 1}
+.clearfix:after {
+    content: ".";
+    clear: both;
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+
+header {
+    width: 100%;
+    background-color: #f1f7ff;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+#title h1 {
+    font-size: 20px;
+    margin-top: 15px;
+    color:#74ad5a;
+}
+
+header img {
+    width: 200px;
+    height: auto;
+    float: none;
+    clear: both;
+  }
+
+header h1 {
+    color: #74ad5a;
+}
+
+button {
+	box-shadow:inset 0px 1px 0px 0px #9acc85;
+	background:linear-gradient(to bottom, #74ad5a 5%, #68a54b 100%);
+	background-color:#74ad5a;
+	border:1px solid #3b6e22;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	font-weight:bold;
+	padding:6px 12px;
+    text-decoration:none;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+button:hover {
+	background:linear-gradient(to bottom, #68a54b 5%, #74ad5a 100%);
+	background-color:#68a54b;
+}
+button:active {
+	position:relative;
+	top:1px;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    display: block;
+}
+
+h3 {
+    font-size: 70%;
+    color: red;
+}
+
+th {
+    text-align: left;
+    }
+
+#test {
+    background-color: rgb(218, 77, 77);
+}
+
+.container_thing {
+    text-align: center;
+}
+
+.container_thing h2 {
+    text-align: center;
+}
+
+#questions h2 {
+    margin-bottom: 15px;
+    color:#74ad5a;
+    font-size: 100%;
+}
+
+#questions {
+    text-align: left;
+    display: inline-block;
+    width: 50%;
+    background-color: #f1f7ff;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    font-weight: 400;
+}
+
+#results_centerer {
+    text-align: center;
+}
+
+#questions p {
+    font-size: 75%;
+}
+
+#questions h4 {
+    text-align: center !important;
+}
+
+
+#terkkarikuva {
+    height: 180px;
+    float: right;
+    padding-right: 100px;
+    padding-left: 5px;
+}
+
+#imagecenter {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#imagecenter img {
+    height: 150px;
+}
+
+
+#eivalittu {
+    text-align: left;
+    display: inline-block;
+    width: 30%;
+}
+
+#right_answers {
+    text-align: center;
+    width: 50%;
+    display: inline-block
+}
+
+#right_answers th {
+    width: 30%;
+    align: center;
+    padding-top: 15px;
+}
+
+#right_answers table {
+    text-align: center;
+    width: 30%;
+    align: center;
+}
+
+#right_answers td {
+    font-size: 85%;
+    text-align: left;
+}
+
+label {
+    font-size: 80%;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+
+/* -----REUSEABLE COMPONENT----- */
+
+
+/* -----HEADINGS----- */
+
+
+/* -----PARAGRAPHS----- */
+
+
+/* -----ICONS----- */
+
+
+/* -----LINKS----- */
+
+
+/* -----BUTTONS----- */
+
+
+/* -----HEADER----- */
+
+
+/* -----MAIN NAVIGATION----- */
+
+
+/* -----STICKY NAVIGATION----- */
+
+
+/* -----FORMS----- */
+
+
+/* -----FOOTER----- */
+
+
+/* -----ANIMATIONS----- */
