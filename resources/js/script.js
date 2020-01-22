@@ -5,7 +5,7 @@ let storedAnswers = [];
 
 const questions = [
     {
-    question: "1.   Kuka ohjaa kuntien tupakkavalvontaviranomaisten toimintaa?",
+    question: "1.  Kuka ohjaa kuntien tupakkavalvontaviranomaisten toimintaa?",
     answer1: "Aluehallintovirasto (AVI)",
     answer2: "Sosiaali- ja terveysalan lupa- ja valvontavirasto (Valvira)",
     answer3: "Sosiaali- ja terveysministeriö (STM)",
