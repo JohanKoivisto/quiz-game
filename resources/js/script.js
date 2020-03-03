@@ -162,7 +162,7 @@ const questions = [
         answer1: "Ihmisen ja ekosysteemin vaikutusta toisiinsa ja terveyteen",
         answer2: "Maailmanlaajuista ihmisten terveyttä",
         answer3: "Ihmisen, eläinten ja ympäristön laajaa, toisiinsa kietoutuvaa kokonaisuutta",
-        answer4: "Ihmisten vaikutusta eläinten terveyteen",
+        answer4: "Ihmisen vaikutusta eläinten terveyteen",
         correct: 3,
         source: "https://www.sell.fi/elainlaakarin-ammatti/elainlaakari-yhteiskunnassa/yksi-yhteinen-terveys", 
         },
