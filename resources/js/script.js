@@ -176,7 +176,7 @@ const questions = [
         source: "https://blogi.thl.fi/luonnon-monimuotoisuus-ja-ihmisen-terveys-kulkevat-kasi-kadessa/",
         },
         {
-        question: "20. Miten keinolla listeriabakteerilta voi välttyä?",
+        question: "20. Millä keinolla listeriabakteerilta voi välttyä?",
         answer1: "Huuhtomalla vihannekset",
         answer2: "Säilyttämällä kala alle 6 asteen lämpötilassa",
         answer3: "Kuumentamalla ruoka kiehuvaksi",
