@@ -189,7 +189,7 @@ const questions = [
 function createInner() {
     // making question/answer string and storing it to fullQuestion and then inputing whole thing to DOM with .innerHTML
     if (i == 0) { // display info if game hasn't started yet
-        let beginning = "<h1>Peli sisältää kymmenen monivalintakysymystä. Pelin päätyttyä näet oikeat vastaukset. Vastaa huolella!</h1>"
+        let beginning = "<h1>Peli sisältää kaksikymmentä monivalintakysymystä. Pelin päätyttyä näet oikeat vastaukset. Vastaa huolella!</h1>"
         document.getElementById('title').innerHTML = beginning;
     } else {
         document.getElementById('title').innerHTML = "";
