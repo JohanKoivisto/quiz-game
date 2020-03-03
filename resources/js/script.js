@@ -182,7 +182,7 @@ const questions = [
         answer3: "Kuumentamalla ruoka kiehuvaksi",
         answer4: "Juomalla pastöroimatonta maitoa",
         correct: 3,
-        source: "STM 2017. Sosiaali- ja terveysministeriön raportteja ja muistioita 2017/33, sivut 18-19. Työterveyslaitos TTL. http://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160504/Rap_ja_muistioita_2017_33.pdf?sequence=1&isAllowed=y",
+        source: "https://www.ruokavirasto.fi/henkiloasiakkaat/tietoa-elintarvikkeista/elintarvikkeiden-turvallisen-kayton-ohjeet/turvallisen-kayton-ohjeet/listeriabakteeri/",
         },
 ];
 
