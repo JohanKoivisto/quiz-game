@@ -110,7 +110,7 @@ const questions = [
         answer3: "STM",
         answer4: "Kuntien sosiaali- ja terveyslautakunnat",
         correct: 2,
-        source: "STM 2017. YMPÄRISTÖTERVEYDEN HÄIRIÖTILANTEIDEN HALLINTA JA YHTEISTYÖ SOSIAALI-JA TERVEYSMINISTERIÖN HALLINNONALALLA -YHTEISTYÖVERKOSTO. Verkoston loppuraportti, sivu 25. http://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160504/Rap_ja_muistioita_2017_33.pdf?sequence=1&isAllowed=y",
+        source: "STM 2017. Ympäristöterveyden häiriötilanteiden hallinta ja yhteistyö sosiaali-ja terveysministeriön hallinnonalalla -yhteistyöverkosto. Verkoston loppuraportti, sivu 25.  http://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160504/Rap_ja_muistioita_2017_33.pdf?sequence=1&isAllowed=y",
         },
         {
         question: "13. Mikä on zoonoosi?",
