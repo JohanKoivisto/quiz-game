@@ -5,7 +5,7 @@ let storedAnswers = [];
 
 const questions = [
     {
-    question: "1.  Kuka ohjaa kuntien tupakkavalvontaviranomaisten toimintaa?",
+    question: "1.   Kuka ohjaa kuntien tupakkavalvontaviranomaisten toimintaa?",
     answer1: "Aluehallintovirasto (AVI)",
     answer2: "Sosiaali- ja terveysalan lupa- ja valvontavirasto (Valvira)",
     answer3: "Sosiaali- ja terveysministeriö (STM)",
@@ -94,6 +94,96 @@ const questions = [
     correct: 4,
     source: "STM 2017. Sosiaali- ja terveysministeriön raportteja ja muistioita 2017/33, sivut 18-19. Työterveyslaitos TTL. http://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160504/Rap_ja_muistioita_2017_33.pdf?sequence=1&isAllowed=y",
     },
+    {
+        question: "11. Ympäristöterveydenhuollon ylin johto ja lainsäädännön valmistelu kuuluu kahdelle eri ministeriölle joista toinen on sosiaali- ja terveysministeriö (STM). Mikä on toinen?",
+        answer1: "Maa- ja metsätalousministeriö (MMM)",
+        answer2: "Ympäristöministeriö (YM)",
+        answer3: "Työ- ja elinkeinoministeriö (TEM)",
+        answer4: "Sisäministeriö (SM)",
+        correct: 1,
+        source: "https://www.avi.fi/web/avi/ymparistoterveys;jsessionid=74452F59382E50918086660C576EF57D",
+        },
+        {
+        question: "12. Kuka pitää yllä tartuntatautirekisteriä?",
+        answer1: "AVI",
+        answer2: "THL",
+        answer3: "STM",
+        answer4: "Kuntien sosiaali- ja terveyslautakunnat",
+        correct: 2,
+        source: "http://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160504/Rap_ja_muistioita_2017_33.pdf?sequence=1&isAllowed=y",
+        },
+        {
+        question: "13. Mikä on zoonoosi?",
+        answer1: "Ihmisestä eläimeen tarttuva tauti",
+        answer2: "Eläimestä ihmiseen tarttuva tauti",
+        answer3: "Villieläimestä kotieläimeen tarttuva tauti",
+        answer4: "Eläimestä ihmiseen ja myös päinvastoin tarttuva tauti",
+        correct: 4,
+        source: "https://www.sell.fi/elainlaakarin-ammatti/elainlaakari-yhteiskunnassa/zoonoosit",
+        },
+        {
+        question: "14.	Mikä on maailmanlaajuisesti eniten kuolemia aiheuttava tartuntatauti?",
+        answer1: "Tuberkuloosi",
+        answer2: "Malaria",
+        answer3: "Alahengitystieinfektio",
+        answer4: "AIDS",
+        correct: 3,
+        source: ". https://www.who.int/en/news-room/fact-sheets/detail/the-top-10-causes-of-death",
+        },
+        {
+        question: "15. Mikä on nosebo-ilmiö?",
+        answer1: "Henkilö kokee altistuvansa jollekin haitalliselle",
+        answer2: "Henkilö saa oireita sähköstä",
+        answer3: "Henkilö saa oireita eri kemikaaleista",
+        answer4: "Henkilö saa oireita rakennuksen epäpuhtauksista",
+        correct: 1,
+        source: "? https://blogi.thl.fi/miksi-on-tarkeaa-puhua-erilaisista-sisailmaoireiluun-vaikuttavista-tekijoista-ei-vain-sisailman-epapuhtauksista/", 
+        },
+        {
+        question: "16.	Mihin vuoteen mennessä Suomella on tavoite olla hiilineutraali?",
+        answer1: "2030",
+        answer2: "2035",
+        answer3: "2040",
+        answer4: "2050",
+        correct: 2,
+        source: "https://www.ym.fi/ilmastolaki", 
+        },
+        {
+        question: "17.	Mitkä ovat ympäristöterveydenhuollon kaksi keskusvirastoa?",
+        answer1: "Valvira ja Ruokavirasto",
+        answer2: "Ympäristövirasto ja Hallintovirasto",
+        answer3: "Terveydenhuoltovirasto ja Luontovirasto",
+        answer4: "Maa- ja vesivirasto ja Maakuntavirasto",
+        correct: 1,
+        source: "https://www.avi.fi/web/avi/ymparistoterveys#.WDMFPnrX7Y8",
+        },
+        {
+        question: "18. Mitä tarkoittaa termi One health – Yhteinen terveys?",
+        answer1: "Ihmisen ja ekosysteemin vaikutusta toisiinsa ja terveyteen",
+        answer2: "Maailmanlaajuista ihmisten terveyttä",
+        answer3: "Ihmisen, eläinten ja ympäristön laajaa, toisiinsa kietoutuvaa kokonaisuutta",
+        answer4: "Ihmisten vaikutusta eläinten terveyteen",
+        correct: 3,
+        source: "https://www.sell.fi/elainlaakarin-ammatti/elainlaakari-yhteiskunnassa/yksi-yhteinen-terveys", 
+        },
+        {
+        question: "19.	Terveyden biodiversiteettihypoteesin mukaan ihmisen yksipuolistunut mikrobisto on yhteydessä:",
+        answer1: "Tulehdusperäisten sairauksien kuten allergioiden ja astman lisääntymiseen",
+        answer2: "Heikentyneeseen vastustuskykyyn",
+        answer3: "Lihavuuden riskin lisääntymiseen",
+        answer4: "Kaikkiin edellisiin",
+        correct: 4,
+        source: "https://blogi.thl.fi/luonnon-monimuotoisuus-ja-ihmisen-terveys-kulkevat-kasi-kadessa/",
+        },
+        {
+        question: "20. Miten keinolla listeriabakteerilta voi välttyä?",
+        answer1: "Huuhtomalla vihannekset",
+        answer2: "Säilyttämällä kala alle 6 asteen lämpötilassa",
+        answer3: "Kuumentamalla ruoka kiehuvaksi",
+        answer4: "Juomalla pastöroimatonta maitoa",
+        correct: 3,
+        source: "STM 2017. Sosiaali- ja terveysministeriön raportteja ja muistioita 2017/33, sivut 18-19. Työterveyslaitos TTL. http://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160504/Rap_ja_muistioita_2017_33.pdf?sequence=1&isAllowed=y",
+        },
 ];
 
 function createInner() {
@@ -154,7 +244,7 @@ function calcResults() {
     // load image based on results, init here:
     let imgload = ""
     let resultsText = ""
-    if (scoreCounter < 7) {
+    if (scoreCounter < 15) {
         imgLoad = "<img src=\"resources/img/resultbad.png\"";
         resultsText = "Vielä on varaa parantaa!"
     } else {
