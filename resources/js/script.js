@@ -101,7 +101,7 @@ const questions = [
         answer3: "Työ- ja elinkeinoministeriö (TEM)",
         answer4: "Sisäministeriö (SM)",
         correct: 1,
-        source: "https://www.avi.fi/web/avi/ymparistoterveys;jsessionid=74452F59382E50918086660C576EF57D",
+        source: "AVI 15.2.2019. Ympäristöterveys. https://www.avi.fi/web/avi/ymparistoterveys;jsessionid=74452F59382E50918086660C576EF57D",
         },
         {
         question: "12. Kuka pitää yllä tartuntatautirekisteriä?",
@@ -110,7 +110,7 @@ const questions = [
         answer3: "STM",
         answer4: "Kuntien sosiaali- ja terveyslautakunnat",
         correct: 2,
-        source: "http://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160504/Rap_ja_muistioita_2017_33.pdf?sequence=1&isAllowed=y",
+        source: "STM 2017. YMPÄRISTÖTERVEYDEN HÄIRIÖTILANTEIDEN HALLINTA JA YHTEISTYÖ SOSIAALI-JA TERVEYSMINISTERIÖN HALLINNONALALLA -YHTEISTYÖVERKOSTO. Verkoston loppuraportti, sivu 25. http://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160504/Rap_ja_muistioita_2017_33.pdf?sequence=1&isAllowed=y",
         },
         {
         question: "13. Mikä on zoonoosi?",
@@ -119,7 +119,7 @@ const questions = [
         answer3: "Villieläimestä kotieläimeen tarttuva tauti",
         answer4: "Eläimestä ihmiseen ja myös päinvastoin tarttuva tauti",
         correct: 4,
-        source: "https://www.sell.fi/elainlaakarin-ammatti/elainlaakari-yhteiskunnassa/zoonoosit",
+        source: "Suomen Eläinlääkäriliitto. Zoonoosit. https://www.sell.fi/elainlaakarin-ammatti/elainlaakari-yhteiskunnassa/zoonoosit",
         },
         {
         question: "14.	Mikä on maailmanlaajuisesti eniten kuolemia aiheuttava tartuntatauti?",
@@ -128,7 +128,7 @@ const questions = [
         answer3: "Alahengitystieinfektio",
         answer4: "AIDS",
         correct: 3,
-        source: ". https://www.who.int/en/news-room/fact-sheets/detail/the-top-10-causes-of-death",
+        source: "WHO 2018. The top 10 causes of death. https://www.who.int/en/news-room/fact-sheets/detail/the-top-10-causes-of-death ",
         },
         {
         question: "15. Mikä on nosebo-ilmiö?",
@@ -137,7 +137,7 @@ const questions = [
         answer3: "Henkilö saa oireita eri kemikaaleista",
         answer4: "Henkilö saa oireita rakennuksen epäpuhtauksista",
         correct: 1,
-        source: "? https://blogi.thl.fi/miksi-on-tarkeaa-puhua-erilaisista-sisailmaoireiluun-vaikuttavista-tekijoista-ei-vain-sisailman-epapuhtauksista/", 
+        source: "THL 28.2.2020. Miksi on tärkeää puhua erilaisista sisäilmaoireiluun vaikuttavista tekijöistä – ei vain sisäilman epäpuhtauksista? https://blogi.thl.fi/miksi-on-tarkeaa-puhua-erilaisista-sisailmaoireiluun-vaikuttavista-tekijoista-ei-vain-sisailman-epapuhtauksista/", 
         },
         {
         question: "16.	Mihin vuoteen mennessä Suomella on tavoite olla hiilineutraali?",
@@ -146,7 +146,7 @@ const questions = [
         answer3: "2040",
         answer4: "2050",
         correct: 2,
-        source: "https://www.ym.fi/ilmastolaki", 
+        source: "Ympäristöministeriö 19.2.2020. Ilmastolain uudistus. https://www.ym.fi/ilmastolaki", 
         },
         {
         question: "17.	Mitkä ovat ympäristöterveydenhuollon kaksi keskusvirastoa?",
@@ -155,7 +155,7 @@ const questions = [
         answer3: "Terveydenhuoltovirasto ja Luontovirasto",
         answer4: "Maa- ja vesivirasto ja Maakuntavirasto",
         correct: 1,
-        source: "https://www.avi.fi/web/avi/ymparistoterveys#.WDMFPnrX7Y8",
+        source: "AVI 15.2.2019. Ympäristöterveys. https://www.avi.fi/web/avi/ymparistoterveys#.WDMFPnrX7Y8",
         },
         {
         question: "18. Mitä tarkoittaa termi One health – Yhteinen terveys?",
@@ -164,7 +164,7 @@ const questions = [
         answer3: "Ihmisen, eläinten ja ympäristön laajaa, toisiinsa kietoutuvaa kokonaisuutta",
         answer4: "Ihmisen vaikutusta eläinten terveyteen",
         correct: 3,
-        source: "https://www.sell.fi/elainlaakarin-ammatti/elainlaakari-yhteiskunnassa/yksi-yhteinen-terveys", 
+        source: "Suomen Eläinlääkäriliitto. Yhteinen terveys. https://www.sell.fi/elainlaakarin-ammatti/elainlaakari-yhteiskunnassa/yksi-yhteinen-terveys", 
         },
         {
         question: "19.	Terveyden biodiversiteettihypoteesin mukaan ihmisen yksipuolistunut mikrobisto on yhteydessä:",
@@ -173,7 +173,7 @@ const questions = [
         answer3: "Lihavuuden riskin lisääntymiseen",
         answer4: "Kaikkiin edellisiin",
         correct: 4,
-        source: "https://blogi.thl.fi/luonnon-monimuotoisuus-ja-ihmisen-terveys-kulkevat-kasi-kadessa/",
+        source: "THL 20.3.2019. Luonnon monimuotoisuus ja ihmisen terveys kulkevat käsi kädessä. https://blogi.thl.fi/luonnon-monimuotoisuus-ja-ihmisen-terveys-kulkevat-kasi-kadessa/",
         },
         {
         question: "20. Millä keinolla listeriabakteerilta voi välttyä?",
@@ -182,7 +182,7 @@ const questions = [
         answer3: "Kuumentamalla ruoka kiehuvaksi",
         answer4: "Juomalla pastöroimatonta maitoa",
         correct: 3,
-        source: "https://www.ruokavirasto.fi/henkiloasiakkaat/tietoa-elintarvikkeista/elintarvikkeiden-turvallisen-kayton-ohjeet/turvallisen-kayton-ohjeet/listeriabakteeri/",
+        source: "Ruokavirasto. Listeriabakteeri. https://www.ruokavirasto.fi/henkiloasiakkaat/tietoa-elintarvikkeista/elintarvikkeiden-turvallisen-kayton-ohjeet/turvallisen-kayton-ohjeet/listeriabakteeri/",
         },
 ];
 
